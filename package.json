@@ -1,0 +1,23 @@
+{
+  "name": "project_smart_energo",
+  "version": "1.0.0",
+  "description": "sjdojsogisj",
+  "main": "examples.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/voter-7/project-smart_energo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/voter-7/project-smart_energo/issues"
+  },
+  "homepage": "https://github.com/voter-7/project-smart_energo#readme",
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "ws": "^8.2.2"
+  }
+}
